@@ -28,8 +28,7 @@ An AI-powered career coaching agent that helps students optimize resumes, analyz
 * Prompt Engineering
 
 ## System Architecture
-
-[Insert architecture image]
+<img width="1536" height="1024" alt="ChatGPT Image Jun 20, 2026, 01_40_25 PM" src="https://github.com/user-attachments/assets/c1793335-c27c-4872-bd04-852ee23314ad" />
 
 ## Workflow
 
