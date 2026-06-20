@@ -57,6 +57,9 @@ An AI-powered career coaching agent that helps students optimize resumes, analyz
 * Job Search Integration
 * Multi-Agent Career Planning
 * Real-Time Market Insights
+  
+## cover Image
+<img width="1774" height="887" alt="CareerPilot AI Image Jun 20, 2026, 10_51_54 AM" src="https://github.com/user-attachments/assets/6b421cdf-2ba3-4961-b23a-cf42476ab0fb" />
 
 
 
