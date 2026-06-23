@@ -1,4 +1,4 @@
-CareerPilot AI 🚀
+## CareerPilot AI 🚀
 
 An AI-powered career coaching agent that helps students optimize resumes, analyze job descriptions, identify skill gaps, generate learning roadmaps, and prepare for interviews.
 ## Features
