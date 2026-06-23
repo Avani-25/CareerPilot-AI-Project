@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+CareerPilot AI 🚀
 
-# Run and deploy your AI Studio app
+An AI-powered career coaching agent that helps students optimize resumes, analyze job descriptions, identify skill gaps, generate learning roadmaps, and prepare for interviews.
+## Features
+- Resume Analysis
+- ATS Score Evaluation
+- Skill Gap Detection
+- Learning Roadmap Generation
+- Mock Interview Support
 
-This contains everything you need to run your app locally.
+## Tech Stack
+- React
+- TypeScript
+- Gemini API
+- Vite
 
-View your app in AI Studio: https://career-pilot-ai-project-mvis.vercel.app
+## Live Demo
+(https://career-pilot-ai-project-mvis.vercel.app)
 
-## Run Locally
+## Cover Image
+<img width="1774" height="887" alt="CareerPilot AI Image Jun 20, 2026, 10_51_54 AM" src="https://github.com/user-attachments/assets/ed44e37e-870c-43f5-a7be-52f3c103307c" />
 
-**Prerequisites:**  Node.js
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
