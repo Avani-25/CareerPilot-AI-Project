@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: career-pilot-ai-project-mvis.vercel.app
+View your app in AI Studio: https://career-pilot-ai-project-mvis.vercel.app
 
 ## Run Locally
 
