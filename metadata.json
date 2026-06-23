@@ -1,0 +1,8 @@
+{
+  "name": "CareerPilot AI",
+  "description": "AI career coach and mock interview mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

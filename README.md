@@ -1,64 +1,20 @@
-# CareerPilot AI -Project🚀
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-An AI-powered career coaching agent that helps students optimize resumes, analyze job descriptions, identify skill gaps, generate learning roadmaps, and prepare for interviews.
+# Run and deploy your AI Studio app
 
-## Features
+This contains everything you need to run your app locally.
 
-✅ Resume Analysis
+View your app in AI Studio: https://ai.studio/apps/26326cc6-d4a5-42e8-a884-b3135a09ba51
 
-✅ ATS Compatibility Scoring
+## Run Locally
 
-✅ Job Description Matching
-
-✅ Skill Gap Detection
-
-✅ Personalized Learning Roadmaps
-
-✅ AI Mock Interviews
-
-✅ RAG-based Document Understanding
-
-## Tech Stack
-
-* Python
-* Gemini API
-* RAG
-* Flask / FastAPI
-* Vector Database
-* Prompt Engineering
-
-## System Architecture
-<img width="1536" height="1024" alt="ChatGPT Image Jun 20, 2026, 01_40_25 PM" src="https://github.com/user-attachments/assets/c1793335-c27c-4872-bd04-852ee23314ad" />
-
-## Workflow
-
-1. Upload Resume
-2. Paste Job Description
-3. Analyze ATS Compatibility
-4. Identify Missing Skills
-5. Generate Learning Roadmap
-6. Conduct Mock Interview
-7. Provide Career Recommendations
-
-## Demo
- Demo link: [https://ai.studio/apps/26326cc6-d4a5-42e8-a884-b3135a09ba51]
-
-## Results
-
-* ATS Match Analysis
-* Skill Gap Identification
-* Personalized Recommendations
-* Interview Feedback
-
-## Future Improvements
-
-* LinkedIn Profile Analysis
-* Job Search Integration
-* Multi-Agent Career Planning
-* Real-Time Market Insights
-  
-## cover Image
-<img width="1774" height="887" alt="CareerPilot AI Image Jun 20, 2026, 10_51_54 AM" src="https://github.com/user-attachments/assets/6b421cdf-2ba3-4961-b23a-cf42476ab0fb" />
+**Prerequisites:**  Node.js
 
 
-
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
