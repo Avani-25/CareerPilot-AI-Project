@@ -17,6 +17,9 @@ An AI-powered career coaching agent that helps students optimize resumes, analyz
 ## Live Demo
 (https://career-pilot-ai-project-mvis.vercel.app)
 
+## App URL
+https://careerpilot-ai-116724929985.asia-southeast1.run.app
+
 ## Cover Image
 <img width="1774" height="887" alt="CareerPilot AI Image Jun 20, 2026, 10_51_54 AM" src="https://github.com/user-attachments/assets/ed44e37e-870c-43f5-a7be-52f3c103307c" />
 
